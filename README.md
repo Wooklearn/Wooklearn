@@ -1,3 +1,8 @@
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Wook's%20Github&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+
 
 <div align="center">
   
