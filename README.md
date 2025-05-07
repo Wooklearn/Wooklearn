@@ -27,6 +27,7 @@
   ## 🛠️ Tools  
   <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 </div>
 <br/>
