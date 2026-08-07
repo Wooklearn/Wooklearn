@@ -1,48 +1,68 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20Wook's%20Github&fontSize=55&animation=fadeIn&fontAlignY=38"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,100:06B6D4&text=Welcome%20to%20Wook's%20Github&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+</p>
+
+<h1 align="center">💻 Fullstack Developer</h1>
+
+<p align="center">
+Java & Spring 기반 웹 서비스를 개발하며,<br>
+Flutter를 이용한 Android 앱도 만들고 있습니다.
+</p>
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+
+<h3 align="center">🌟 Backend</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+</p>
+
+<h3 align="center">🗄 Database</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUBRID-1A4FA3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+<h3 align="center">🔧 Version Control</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>
+</p>
+
+<h3 align="center">🛠 Tools</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 
 
-<div align="center">
-  
-  ## 🌟 Backend  
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white">
-
-  ## 🗄 Database  
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-
-  ## 🎨 Frontend  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
-
-  ## 🔧 Version Control  
-  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-
-  ## 🛠️ Tools  
-  <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code">
+<h2 align="center">📈 GitHub Stats</h2>
 
 
-</div>
-<br/>
-<br/>
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Wooklearn&theme=tokyo-night&hide_border=true"/>
+</p>
 
 
-<div align="center">
-  <!-- My profile -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wooklearn&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FF69B4&text_color=FFFFFF&title_color=FF1493&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Wooklearn&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FF69B4&text_color=FFFFFF&title_color=FF1493&count_private=true" width=56% />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wooklearn&theme=react-dark&bg_color=20232a&hide_border=true&line=FF69B4&color=FF1493" width=94%/>
-</div>
-
-
+<h2 align="center">⭐ Thanks for visiting ⭐</h2>
